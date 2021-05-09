@@ -6,3 +6,7 @@ Primer cambio rama master
 
 Segundo cambio rama master
 segundo cambio segunda rama
+segundo cambio tercera rama
+
+tercer cambio tercera rama
+tercer cambio segunda rama
